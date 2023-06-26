@@ -24,6 +24,11 @@ Continuously monitoring and updating the churn prediction model.
 # Article Link
 https://medium.com/@newtonkimathi20/predictive-analysis-of-customer-churn-and-retention-strategies-in-the-telecommunication-industry-a-41f2237c1ab4
 
-
- 
- 
+# Skills Gained
+1. Data Exploration
+2. Missing value computations
+3. Feature engineering
+4. Data Standardization and Balancing
+5. Model Development using Machine Learning Algorithms 
+6. Model Evaluation and Interpretation 
+7. Model Optimization and hyperparameter tuning
