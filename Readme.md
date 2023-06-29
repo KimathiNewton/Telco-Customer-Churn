@@ -4,9 +4,10 @@
 The goal of this project is to develop a customer churn prediction model that can accurately identify customers at risk of churn. By proactively identifying potential churners, businesses can implement targeted retention strategies to reduce customer attrition and improve overall customer satisfaction and profitability.
  
 # Flow of the Project  
- Business  Understanding --> Data Understanding --> Data Preparation --> Modelling --> Evaluation 
+ Business  Understanding --> Data Understanding --> Data Preprocessing --> Modelling --> Evaluation 
 
- # Feature Description
+ # Data Understanding
+ The dataset contained the following features:
 * Gender -- Whether the customer is a male or a female
 * SeniorCitizen -- Whether a customer is a senior citizen or not
 * Partner -- Whether the customer has a partner or not (Yes, No)
