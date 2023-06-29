@@ -34,7 +34,7 @@ The goal of this project is to develop a customer churn prediction model that ca
 * Used label encoder for the target column(Churn column) to encode the two classes 'Yes' and 'No'
 * Used One Hot Encoder to encode the other remaining categorical columns
 * Used SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance in target variable(Churn column).
-* Used Standard scaler to scale the dataset
+* Used Standard scaler to normalize the dataset
   
 
  # Modelling
