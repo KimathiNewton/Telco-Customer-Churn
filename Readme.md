@@ -28,6 +28,13 @@ The goal of this project is to develop a customer churn prediction model that ca
 * TotalCharges -- The total amount charged to the customer
 * Churn -- Whether the customer churned or not (Yes or No)
 
+# Data Preprocessing
+* Used Simple Imputer using the mean to Impute the missing values
+* Used label encoder for the target column(Churn column) to encode the two classes 'Yes' and 'No'
+* Used One Hot Encoder to encode the other remaining categorical columns
+* Used SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance in target variable(Churn column).
+* Used Standard scaler to scale the dataset
+  
 
  # Modelling
  The following Models were trained:
