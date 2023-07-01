@@ -53,7 +53,7 @@ The goal of this project is to develop a customer churn prediction model that ca
 Random Forest with a F1 score of 0.991486574983628
 
 # Article Link
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@newtonkimathi20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@newtonkimathi20/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@newtonkimathi20/0" alt="Recent Article 0"> 
 
 https://medium.com/@newtonkimathi20/predictive-analysis-of-customer-churn-and-retention-strategies-in-the-telecommunication-industry-a-41f2237c1ab4
 
