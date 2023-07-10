@@ -56,12 +56,8 @@ The goal of this project is to develop a customer churn prediction model that ca
 # Final Model
 Random Forest with a F1 score of 0.991486574983628
  
-# Team Members
-* Newton Kimathi
-* Alhassan Luqman
-* Marvis Korkor Kwao
-* Pascal Wambua
-* Emmanuel Koech
+# Author
+Newton Kimathi
 
 # Skills
 1. Data Exploration
