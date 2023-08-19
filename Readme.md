@@ -1,7 +1,7 @@
 # Predictive Analysis of Customer Churn and Retention Strategies in the Telecommunication Industry: A Case Study of Vodafone telecommunication company
 
 # Article
-The Link to the article can be found ![Article] ([https://medium.com/@newtonkimathi20/predictive-analysis-of-customer-churn-and-retention-strategies-in-the-telecommunication-industry-a-41f2237c1ab4]).
+The Link to the article can be found ![Article] (https://medium.com/@newtonkimathi20/predictive-analysis-of-customer-churn-and-retention-strategies-in-the-telecommunication-industry-a-41f2237c1ab4).
 
 # Deployment
 Telco Churn Gradio App for the model in this repositor [App]()
